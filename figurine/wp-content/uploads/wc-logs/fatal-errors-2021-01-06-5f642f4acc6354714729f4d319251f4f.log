@@ -1,0 +1,78 @@
+2021-01-06T07:54:48+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
+2021-01-06T07:54:49+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
+2021-01-06T07:55:22+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
+2021-01-06T07:55:24+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
+2021-01-06T07:55:28+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
+2021-01-06T07:55:28+00:00 CRITICAL Uncaught Error: Call to undefined function mesmerize_is_inner() in C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php:77
+Stack trace:
+#0 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(287): Mesmerize\Companion->{closure}('')
+#1 C:\wamp64\www\figurine\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\wamp64\www\figurine\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\wamp64\www\figurine\wp-includes\general-template.php(3005): do_action('wp_head')
+#4 C:\wamp64\www\figurine\wp-content\themes\blocksy\header.php(23): wp_head()
+#5 C:\wamp64\www\figurine\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\f...')
+#6 C:\wamp64\www\figurine\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\f...', true, Array)
+#7 C:\wamp64\www\figurine\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\figurine\wp-content\themes\blocksy\single.php(10): get_header()
+#9 C:\ dans C:\wamp64\www\figurine\wp-content\plugins\mesmerize-companion\theme-data\mesmerize\options\overlap.php à la ligne 77
+
